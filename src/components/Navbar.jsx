@@ -34,7 +34,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className='w-full fixed flex justify-between items-center px-10 py-1 bg-transparent lg:overflow-hidden'>
+    <header className='w-full fixed flex justify-between items-center px-5 md:px-10 py-1 bg-transparent lg:overflow-hidden'>
       <div className='w-20 h-20 z-20'>
         <img src={LOGO} alt="Vihaan" className='w-full h-full' />
       </div>
