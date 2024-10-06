@@ -72,7 +72,7 @@ const Navbar = () => {
               </li>
             )
           }
-          <li className='cursor-pointer capitalize px-8 py-3 bg-teal-600 rounded-md transition-transform duration-300 hover:scale-110 hover:bg-teal-700'>
+          <li className='cursor-pointer capitalize px-8 py-3 bg-teal-600 rounded-md transition-transform duration-500 hover:scale-95 hover:bg-teal-700'>
             <Link to="/contact-us" className="block w-full h-full font-bold text-xl">
               Get Started
             </Link>
